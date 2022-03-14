@@ -23,7 +23,7 @@ Minhas credenciais incluem um Bacharelado em Ciência da Computação pela Unive
 
 ## Projetos, artigos e estudos:
 
-* Algoritmo para Identificar Câncer de mama Benigno ou Maligno: [Clique aqui](encurtador.com.br/hkqJ8)
+* Algoritmo para Identificar Câncer de mama Benigno ou Maligno: [Clique aqui](https://github.com/ziquedc/Data-Science/blob/main/classificator%20cancer%20de%20mama%20.ipynb)
 
 ---
 
