@@ -24,6 +24,7 @@ Minhas credenciais incluem um Bacharelado em Ciência da Computação pela Unive
 ## Projetos, artigos e estudos:
 
 * Algoritmo para Identificar Câncer de mama Benigno ou Maligno: [Clique aqui](https://github.com/ziquedc/Data-Science/blob/main/Classifica%C3%A7%C3%A3o/classificator%20cancer%20de%20mama%20.ipynb)
+* Algoritmos para prever Valor do Plano de Saúde: [Clique aqui](https://github.com/ziquedc/Data-Science/blob/main/Regress%C3%A3o/custo%20plano%20de%20saude%20.ipynb)
 
 ---
 
