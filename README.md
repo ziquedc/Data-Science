@@ -10,7 +10,7 @@ Portfólio Projetos de Data Science
 # Luiz Henrique Campos
 <sub>Cientista de Dados</sub>
 
-Como um cientista de dados, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais na Área do Agronegócio, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
+Como um cientista de dados, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Tendo passado os últimos anos aplicando o Aprendizado de Máquina a problemas reais na Área do Agronegócio, Varejo e Logística, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
 
 Minhas credenciais incluem um Bacharelado em Ciência da Computação pela Universidade de Cruz Alta (UNICRUZ), e Especilizações Técnicas voltadas a Área de Machine Learning.
 
