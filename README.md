@@ -1,7 +1,7 @@
 # Data-Science
 Portfólio Projetos de Data Science
 
- [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+ [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://peps.python.org/pep-0596/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ziquedc/Data-Science/issues)
 
 <p align="center">
   <img src="banner.png" >
@@ -24,6 +24,7 @@ Minhas credenciais incluem um Bacharelado em Ciência da Computação pela Unive
 ## Projetos, artigos e estudos:
 
 * Algoritmo para Identificar Câncer de mama Benigno ou Maligno: [Clique aqui](https://github.com/ziquedc/Data-Science/blob/main/Classifica%C3%A7%C3%A3o/classificator%20cancer%20de%20mama%20.ipynb)
+* Algoritmos para prever Valor do Plano de Saúde: [Clique aqui](https://github.com/ziquedc/Data-Science/blob/main/Regress%C3%A3o/custo%20plano%20de%20saude%20.ipynb)
 
 ---
 
