@@ -14,7 +14,7 @@ Como um cientista de dados, combino habilidades analíticas, capacidade de traba
 
 Minhas credenciais incluem um Bacharelado em Ciência da Computação pela Universidade de Cruz Alta (UNICRUZ), e Especilizações Técnicas voltadas a Área de Machine Learning.
 
-**Experiência em:** Python, Machine Learning, Redes Neurais, SQL, Oracle, Power BI.
+**Experiência em:** Python, Machine Learning, Redes Neurais, Análise Exploratória de Dados,SQL, Oracle, Power BI.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luiz-henrique-campos-5122b5125/)
